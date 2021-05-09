@@ -1,1 +1,19 @@
 hello how are you 
+Hello vishal well done you pass that stage and you learned that concept 
+and i will write all step how to do
+Steps.
+1. log in to server by AWS and launch instance 
+2. become super use by using Sudo su command
+3. After that make directory with the proper naming convention 
+4. 1st move to directory by using cd command 
+5. and install git by using yum install git command 
+6. instialise the Git by using Git init command
+7. Make file by suing touch command 
+8. check git status
+9. perform git add . command
+10. Now here you are to do commit and commit command is git commit -m  " This is my 1st commit "
+11. check Git status 
+12. Now you can connect your local repository with remote reository so that you can push the code.
+13.command is git add origin master <git hub repository address >
+14.Now you can push the code command is git push -u origin master 
+15.and if you want to pull then command is git pull origin master
